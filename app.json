@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Trip Booking App",
+    "slug": "tripBooking",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/icon.png",
+    "splash": {
+      "image": "./src/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./src/assets/favicon.png"
+    },
+    "description": "Trip Booking App Screen Mocking",
+    "githubUrl": "https://github.com/kelvin8773/trip-booking-app"
+  }
+}
